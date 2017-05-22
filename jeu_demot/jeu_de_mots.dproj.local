@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2017/05/22 13:45:15.325,=C:\Users\Stéphane\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2017/05/22 14:17:25.655,C:\Users\Stéphane\Documents\Embarcadero\Studio\Projets\Jeu_de_mot.dfm=C:\Users\Stéphane\Documents\Embarcadero\Studio\Projets\Unit1.dfm</Transaction>
+    <Transaction>2017/05/22 14:17:25.655,C:\Users\Stéphane\Documents\Embarcadero\Studio\Projets\Jeu_de_mot.pas=C:\Users\Stéphane\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2017/05/22 14:17:56.629,C:\Users\Stéphane\Documents\Embarcadero\Studio\Projets\jeu_de_mots.dproj=C:\Users\Stéphane\Documents\Embarcadero\Studio\Projets\Project1.dproj</Transaction>
+    <Transaction>2017/05/22 14:19:12.882,C:\Users\Stéphane\Documents\Embarcadero\Studio\Projets\jeu_demot\jeu_de_mots.dproj=C:\Users\Stéphane\Documents\Embarcadero\Studio\Projets\jeu_de_mots.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
